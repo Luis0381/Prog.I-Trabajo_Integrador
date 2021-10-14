@@ -6,7 +6,7 @@ Para completar este trabajo se incluyeron en los trabajos prácticos semanales d
 
 ## 📚 Descripción
 
-El Trabajo Práctico Integrador consiste en un sistema de gestión de turnos para un centro de estética de mascotas.
+El Trabajo Práctico Integrador consiste en un __sistema de gestión de turnos para un centro de estética de mascotas__.
 
 El mismo posee un menú interactivo con las siguientes opciones:
 
